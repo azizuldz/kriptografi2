@@ -34,24 +34,19 @@ Berikut adalah prinsip dasar Vigenere Cipher:
 
 
 ## Screenshots
-<p align="center">
-  <img src="http://i.imgur.com/HM3uXL6.png" width="600"/>
-</p>
+
+[! register](https://github.com/azizuldz/kriptografi2/blob/main/vigenere_ss/register.PNG)
 
 ---------------------------------------------------------------
 
-<p align="center">
-  <img src="http://i.imgur.com/nHTGGHi.png" width="600"/>
-</p>
+[! register](https://github.com/azizuldz/kriptografi2/blob/main/vigenere_ss/database.PNG)
 
 ---------------------------------------------------------------
 
-<p align="center">
-  <img src="http://i.imgur.com/XVXCHV9.png" width="600"/>
-</p>
-
-
+[! register](https://github.com/azizuldz/kriptografi2/blob/main/vigenere_ss/login.PNG)
 
 
 ---------------------------------------------------------------
+
+[! register](https://github.com/azizuldz/kriptografi2/blob/main/vigenere_ss/done.PNG)
 
