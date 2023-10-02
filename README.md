@@ -37,7 +37,6 @@ Berikut adalah prinsip dasar Vigenere Cipher:
 
 [! register](https://github.com/azizuldz/kriptografi2/blob/main/vigenere_ss/register.PNG)
 
----------------------------------------------------------------
 
 [! register](https://github.com/azizuldz/kriptografi2/blob/main/vigenere_ss/database.PNG)
 
