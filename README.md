@@ -40,14 +40,14 @@ Berikut adalah prinsip dasar Vigenere Cipher:
 
 ---------------------------------------------------------------
 
-![ register](https://github.com/azizuldz/kriptografi2/blob/main/vigenere_ss/database.PNG)
+![ database](https://github.com/azizuldz/kriptografi2/blob/main/vigenere_ss/database.PNG)
 
 ---------------------------------------------------------------
 
-[! register](https://github.com/azizuldz/kriptografi2/blob/main/vigenere_ss/login.PNG)
+![ login](https://github.com/azizuldz/kriptografi2/blob/main/vigenere_ss/login.PNG)
 
 
 ---------------------------------------------------------------
 
-[! register](https://github.com/azizuldz/kriptografi2/blob/main/vigenere_ss/done.PNG)
+1[ berhasil](https://github.com/azizuldz/kriptografi2/blob/main/vigenere_ss/done.PNG)
 
