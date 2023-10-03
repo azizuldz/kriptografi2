@@ -49,5 +49,5 @@ Berikut adalah prinsip dasar Vigenere Cipher:
 
 ---------------------------------------------------------------
 
-1[ berhasil](https://github.com/azizuldz/kriptografi2/blob/main/vigenere_ss/done.PNG)
+![ berhasil](https://github.com/azizuldz/kriptografi2/blob/main/vigenere_ss/done.PNG)
 
